@@ -129,10 +129,6 @@ frontend-assignment/
 - React
 - Tailwind CSS
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
