@@ -19,7 +19,7 @@ This project is a simple React application that demonstrates a dynamic table wit
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/frontend-assignment.git
+   git clone https://github.com/Gpchandrarao/Cloudify.git
    ```
 
 2. Navigate to the project directory:
